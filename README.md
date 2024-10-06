@@ -21,8 +21,7 @@ Whether you're an electronics hobbyist, a professional developer, or an educatio
 
 ![Hot side](images/AC-Analyzer-hot-side.png)
 
-made for:
-**Electronics Hobbyists and Makers:** Individuals interested in DIY electronics projects might be keen on using such a PCB for home automation or monitoring systems.
+Made for:
 
 **IoT Developers:** Companies or developers focused on IoT solutions may find it useful for applications in energy monitoring, smart home devices, or industrial automation.
 
@@ -37,3 +36,5 @@ made for:
 **Home Appliance Manufacturers:** Companies that produce smart appliances might incorporate this technology for better energy efficiency and monitoring.
 
 **Energy Management Firms:** Organizations focusing on energy efficiency and consumption analysis might utilize the PCB for data collection and analysis.
+
+**Electronics Hobbyists and Makers:** If you are an experienced electrician and interested in DIY electronics projects might be keen on using such a PCB for home automation or monitoring systems.
