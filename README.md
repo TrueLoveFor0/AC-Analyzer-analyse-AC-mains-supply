@@ -24,9 +24,9 @@ Whether you're an electronics hobbyist, a professional developer, or an educatio
 made for:
 **Electronics Hobbyists and Makers:** Individuals interested in DIY electronics projects might be keen on using such a PCB for home automation or monitoring systems.
 
-IoT Developers: Companies or developers focused on IoT solutions may find this PCB useful for applications in energy monitoring, smart home devices, or industrial automation.
+**IoT Developers:** Companies or developers focused on IoT solutions may find it useful for applications in energy monitoring, smart home devices, or industrial automation.
 
-**Electrical Engineers:** Professionals involved in electrical engineering could use the PCB for research, development, and testing of power systems or frequency monitoring devices.
+**Electrical Engineers:** Professionals involved in electrical engineering could use the AC Analyzer for research, development, and testing of power systems or frequency monitoring devices.
 
 **Renewable Energy Sector:** Businesses or individuals in solar power, wind energy, or other renewable sources may use this technology to monitor the frequency of generated AC power.
 
