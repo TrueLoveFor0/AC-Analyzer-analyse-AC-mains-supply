@@ -1,5 +1,6 @@
-# AC-Frequency-Monitoring-PCB-with-ESP-Super-Mini
+# AC-Analyzer Frequency-Monitoring- with- programming
 Analyze AC frequency, send high precision results over USB (serial).    
+Build averages or out of range indicators. Works an any devecie that can do USB serial (Win, Linux, Android, Raspy etc.)
 
 ![AC-Analyzer PCB](images/AC-Analyzer-uC-side.png)
 
@@ -8,7 +9,7 @@ AC-Analyzer is designed to comply with VDE distance regulations. Anything possib
 
 
 ## Description
-Welcome to the ESP Super Mini PCB: AC Mains Frequency Measurement project! We features a compact and efficient PCB designed to integrate the ESP super mini microcontroller, enabling precise measurement of AC mains frequency. 
+Welcome to the AC-Analyzer AC Mains Frequency Measurement project! We features a compact and efficient PCB designed to integrate the ESP super mini microcontroller, enabling precise measurement of AC mains frequency. 
 
 ![AC-Analyzer PCB](images/ArduinoSketch.png)
 
