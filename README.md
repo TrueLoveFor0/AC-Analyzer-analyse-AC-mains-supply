@@ -1,7 +1,6 @@
 # AC-Analyzer Frequency-Monitoring- with- programming
 Analyze AC frequency, send high precision results over USB (serial).    
-Build averages or out of range indicators. Check for power outages, brown outs etc.
-Measure anywhere you see a wall socket or outlet.
+Build averages or out of range indicators. Check for power outages, brown outs etc. Measure anywhere you see a wall socket or outlet.
 
 Works an any device that can do USB serial (Win, Linux, Android, Raspy etc.)
 
