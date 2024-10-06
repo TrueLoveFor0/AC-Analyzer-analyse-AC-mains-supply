@@ -1,5 +1,5 @@
 # AC-Analyzer a programmable AC Monitoring Sensor
-Analyze AC frequency, send high precision results over USB (serial).    
+Analyze AC frequency, send high precision results over USB.    
 Build averages or out of range indicators. Check for power outages, brown outs etc. Measure anywhere you see a wall socket or outlet.
 
 Works an any device that can do USB serial (Win, Linux, Android, Raspy etc.)
@@ -11,7 +11,7 @@ AC-Analyzer is designed to comply with VDE distance regulations. Anything possib
 
 
 ## Description
-Welcome to the AC-Analyzer AC Mains Frequency Measurement project! We features a compact and efficient PCB designed to integrate the ESP super mini microcontroller, enabling precise measurement of AC mains frequency. 
+Welcome to the AC-Analyzer AC Mains Frequency Measurement project! It features a compact and efficient Sensor designed to integrate mini microcontrollers such as the ESP super mini, enabling precise measurement of AC mains frequency and logging. 
 
 ![AC-Analyzer PCB](images/ArduinoSketch.png)
 
