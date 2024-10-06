@@ -1,4 +1,4 @@
-# AC-Analyzer Frequency-Monitoring- with- programming
+# AC-Analyzer a programmable AC Monitoring Sensor
 Analyze AC frequency, send high precision results over USB (serial).    
 Build averages or out of range indicators. Check for power outages, brown outs etc. Measure anywhere you see a wall socket or outlet.
 
