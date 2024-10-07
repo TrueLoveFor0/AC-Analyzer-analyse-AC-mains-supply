@@ -5,7 +5,7 @@ Build averages or out of range indicators. Check for power outages, brown outs e
 
 Works with any device that can do USB serial (Win, Linux, Android, Raspy etc.)
 
-### This is a preview without hardware, bom and howto.  
+### This is a preview, device works in endurance test. PCB, case prints, bom and howto soon.  
 
 ![AC-Analyzer PCB](images/AC-Analyzer-uC-side.png)
 
