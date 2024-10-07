@@ -1,6 +1,6 @@
 # Announcement: 
 # AC-Analyzer a programmable AC Monitoring Sensor
-Analyze AC main frequency (230V 50/60 Hz), send high precision results over USB.    
+Analyze AC main frequency (230V 50Hz tested), send high precision results over USB.    
 Build averages or out of range indicators. Check for power outages, brown outs etc. Convenient measurement on any wall socket or outlet.
 
 Works with any device that can do USB serial (Win, Linux, Android, Raspy etc.)
