@@ -1,4 +1,4 @@
-# AC-Analyzer a programmable AC Monitoring Sensor
+# Announcement: AC-Analyzer a programmable AC Monitoring Sensor
 Analyze AC main frequency (230V 50/60 Hz), send high precision results over USB.    
 Build averages or out of range indicators. Check for power outages, brown outs etc. Measure anywhere you see a wall socket or outlet.
 
