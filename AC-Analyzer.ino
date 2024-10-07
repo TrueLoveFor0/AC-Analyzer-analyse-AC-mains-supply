@@ -17,7 +17,7 @@ unsigned long pulseWidth1;
 unsigned long pulseWidth2;
 unsigned long pulsePeriod;
 float freq = 0;
-float minFreq = 10000, maxFreq = 0;
+float minFreq = 50, maxFreq = 50;
 
 float emaPulsePeriod = 20000.00, emaFreq = 0;  // 50Hz Exponential moving average change to your period if needed
 
@@ -149,8 +149,16 @@ void loop() {
       Serial.print("Freq(Hz):");
       Serial.print(freq);
       Serial.print("\t");
-      Serial.print("Avg(Hz):");
-      Serial.println(emaFreq);
+      Serial.print("Avg:");
+      Serial.print(emaFreq);
+      Serial.print("\t");
+      Serial.print("Min:");
+      Serial.print(minFreq);
+      Serial.print("\t");
+      Serial.print("Max:");
+      Serial.print(maxFreq);
+      Serial.println("");
+      
       //printMinMax();
     //}
   }
